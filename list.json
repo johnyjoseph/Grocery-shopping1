@@ -1,0 +1,85 @@
+{
+    "stock":[
+        {
+            "#":1,
+            "Name":"Raice",
+            "Quantity":38,
+            "Unit":"kg",
+            "Department":"Grocery ",
+            "Notes":""
+        },
+        {
+            "#":2,
+            "Name":" Oil",
+            "Quantity":100,
+            "Unit":"Liter",
+            "Department":"Grocery ",
+            "Notes":""
+        },
+        {
+            "#":3,
+            "Name":"Sauces",
+            "Quantity":180,
+            "Unit":"kg",
+            "Department":"Grocery ",
+            "Notes":""
+        },
+        {
+            "#":4,
+            "Name":"Cupcakes",
+            "Quantity":60,
+            "Unit":"kg",
+            "Department":"Bakery ",
+            "Notes":""
+        },
+        {
+            "#":5,
+            "Name":"Rusk ",
+            "Quantity":40,
+            "Unit":"kg",
+            "Department":"Bakery ",
+            "Notes":""
+        },
+        {
+            "#":6,
+            "Name":"Ice Cream",
+            "Quantity":40,
+            "Unit":"kg",
+            "Department":"Bakery ",
+            "Notes":""
+        },
+        {
+            "#":7,
+            "Name":"cabbage",
+            "Quantity":"55",
+            "Unit":"kg",
+            "Department":"vegetable",
+            "Notes":""
+        },
+        {
+            "#":8,
+            "Name":"peas",
+            "Quantity":120,
+            "Unit":"kg",
+            "Department":"vegetable",
+            "Notes":""
+        },
+        {
+            "#":9,
+            "Name":"soy beans",
+            "Quantity":60,
+            "Unit":"kg",
+            "Department":"vegetable",
+            "Notes":""
+        },
+        {
+            "#":10,
+            "Name":"Aubergine ",
+            "Quantity":80,
+            "Unit":"kg",
+            "Department":"vegetable",
+            "Notes":""
+        }
+        
+    ]
+}

@@ -1,0 +1,29 @@
+ td, p, input, h3 {
+    font:15px 'Segoe UI';
+}
+table, th, td {
+    border: solid 1px #ddd;
+    border-collapse: collapse;
+    padding: 6px 6px 6px 6px;
+    text-align: center;
+}
+th {
+    font-weight:bold;
+    font-size: 25px;
+    background-color: moccasin;
+}
+.background{
+background-color: blue;
+}
+h1{
+    padding: 50px 0px 0px 0px;
+    text-align: center;
+    color: white;
+}
+button{
+    margin:10px 0px 10px 630px;
+}
+.show{
+    
+    margin: 30px 20px 50px 430px;
+}
